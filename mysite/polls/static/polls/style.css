@@ -1,0 +1,8 @@
+li a {
+    color: green;
+}
+
+body {
+    background: white url("images/space.gif") no-repeat;
+    background-size: cover;
+}
